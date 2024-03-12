@@ -1,0 +1,7 @@
+echo "# Sistema-Heladeria-Taller-UNIBETH" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Blockbastard/Sistema-Heladeria-Taller-UNIBETH.git
+git push -u origin main
